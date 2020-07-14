@@ -2,3 +2,32 @@
 
 I'm a software engineer and currently working as a freelancer :)
 I always try to learn new things and interested in creating new things...
+
+Software Enginner at <a href="https://evoc.pro">EVOC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+[![Twitter: ramezanius](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/ramezanius/)](https://twitter.com/ramezanius)
+[![Linkedin: ramezanius](https://img.shields.io/badge/-Linkedin-2867B2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramezanius/)](https://www.linkedin.com/in/ramezanius/)
+[![Instagram: ramezanius](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ramezanius/)](https://www.instagram.com/ramezanius/)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```go
+type Me struct {
+	Pronouns string
+	Languages []string
+	Skills []string
+	Tools []string
+}
+
+var me = Me{
+	Pronouns: "He, His",
+	Languages: []string{"Go", "Rust", "Python"},
+	Skills: []string{"Test Driven Development", "Microservices", "CI/CD"},
+	Tools: []string{"Linux", "Docker", "Git", "Django", "Echo", "RESTful", "GraphQL"},
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
