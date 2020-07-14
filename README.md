@@ -1,7 +1,7 @@
 # Hey there =)
 
 I'm a software engineer and currently working as a freelancer :)
-I always try to learn new things and interested in creating new things...
+I always try to learn new technologies and interested in creating new things...
 
 Software Enginner at <a href="https://evoc.pro">EVOC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
