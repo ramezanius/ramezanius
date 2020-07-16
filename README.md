@@ -14,14 +14,12 @@ Software Enginner at <a href="https://evoc.pro">EVOC</a><img src="https://media.
 
 ```go
 type Me struct {
-	Pronouns string
 	Languages []string
 	Skills []string
 	Tools []string
 }
 
 var me = Me{
-	Pronouns: "He, His",
 	Languages: []string{"Go", "Rust", "Python"},
 	Skills: []string{"Test Driven Development", "Microservices", "CI/CD"},
 	Tools: []string{"Linux", "Docker", "Git", "Django", "Echo", "RESTful", "GraphQL"},
