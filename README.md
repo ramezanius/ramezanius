@@ -1,9 +1,4 @@
-# Hey there =)
-
-I'm a software engineer and currently working as a freelancer :)
-I always try to learn new technologies and interested in creating new things...
-
-Software Enginner at <a href="https://evoc.pro">EVOC</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Reasoned Software Engineer. Freelance. Dealing with Observability, Reliability and Performance. 🤔 Slow thinker. Open Source Enthusiast. Introverted Human. Pronouns: He/Him.
 
 [![Twitter: ramezanius](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/ramezanius/)](https://twitter.com/ramezanius)
 [![Linkedin: ramezanius](https://img.shields.io/badge/-Linkedin-2867B2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramezanius/)](https://www.linkedin.com/in/ramezanius/)
@@ -11,20 +6,6 @@ Software Enginner at <a href="https://evoc.pro">EVOC</a><img src="https://media.
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```go
-type Me struct {
-	Languages []string
-	Skills []string
-	Tools []string
-}
-
-var me = Me{
-	Languages: []string{"Go", "Rust", "Python"},
-	Skills: []string{"Test Driven Development", "Microservices", "CI/CD"},
-	Tools: []string{"Linux", "Docker", "Git", "Django", "Echo", "RESTful", "GraphQL"},
-}
-```
 
 <!--START_SECTION:waka-->
 ```text
