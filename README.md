@@ -1,4 +1,4 @@
-[![1500x500](https://repository-images.githubusercontent.com/277600566/a0e18700-cdb9-11ea-95dd-ac317c072820 "Mars sunset")](https://github.com/kakkoyun)
+<!--[![1500x500](https://repository-images.githubusercontent.com/277600566/a0e18700-cdb9-11ea-95dd-ac317c072820 "Mars sunset")](https://github.com/kakkoyun)-->
 
 Reasoned Software Engineer. Freelance. Programmer. Dealing with Observability, Reliability and Performance.<br>
 🤔 Slow thinker. Open Source Enthusiast. Introverted Human. Pronouns: He/Him.
