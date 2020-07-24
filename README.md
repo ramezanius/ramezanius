@@ -27,6 +27,13 @@ var me = Me{
 ```
 
 <!--START_SECTION:waka-->
+```text
+Go         32 hrs 27 mins  ████████████████████░░░░░   80.94 % 
+YAML       2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Docker     2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Markdown   1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Other      56 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+```
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
