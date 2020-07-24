@@ -3,8 +3,8 @@ name: Wakatime
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
