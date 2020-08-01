@@ -13,11 +13,11 @@ Reasoned Software Engineer. Freelance. Programmer. Dealing with Observability, R
 
 <!--START_SECTION:waka-->
 ```text
-Go           42 hrs 58 mins  ████████████████████████░   99.31 % 
-YAML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Go           43 hrs 26 mins  ████████████████████████░   98.74 % 
+YAML         19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 <!--END_SECTION:waka-->
 
