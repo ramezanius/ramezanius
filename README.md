@@ -28,4 +28,4 @@ Git Config   2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-### <img src="https://media.giphy.com/media/RIws88ljs2BTgWquur/giphy.gif" width="40"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!
+### <img src="https://media.giphy.com/media/RIws88ljs2BTgWquur/giphy.gif" width="35"> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!
