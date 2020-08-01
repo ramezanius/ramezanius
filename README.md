@@ -8,7 +8,7 @@
 [![Telegram: ramezanius](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white&link=https://www.telegram.me/ramezanius/)](https://www.telegram.me/ramezanius/)
 
 Reasoned Software Engineer. Freelance. Programmer 👨‍💻. Dealing with Observability, Reliability and Performance.<br>
-🤔 Slow thinker. Open Source Enthusiast. Introverted Human. Pronouns: He/Him.
+🤔 Slow thinker. Open Source Enthrusiast. Introverted Human. Pronouns: He/Him.
 
 🔭 I’m currently working on cloud cryptocurrency trading software (tradex).
 I enjoy sci-fi and fantasy stuff, and programming.<br> I like traveling, video games, and DIY things.
