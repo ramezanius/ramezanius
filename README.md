@@ -4,7 +4,7 @@ Reasoned Software Engineer. Freelance. Programmer. Dealing with Observability, R
 🤔 Slow thinker. Open Source Enthusiast. Introverted Human. Pronouns: He/Him.
 
 [![Twitter: ramezanius](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/ramezanius/)](https://twitter.com/ramezanius)
-[![Telegram: ramezanius](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://www.telegram.me/ramezanius/)](https://www.telegram.me/ramezanius/)
+[![Telegram: ramezanius](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white&link=https://www.telegram.me/ramezanius/)](https://www.telegram.me/ramezanius/)
 [![Instagram: ramezanius](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ramezanius/)](https://www.instagram.com/ramezanius/)
 [![Linkedin: ramezanius](https://img.shields.io/badge/-Linkedin-2867B2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramezanius/)](https://www.linkedin.com/in/ramezanius/)
 
