@@ -18,11 +18,11 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Go         29 hrs 20 mins  ██████████████████████░░░   90.83 % 
-YAML       2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Markdown   19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Bash       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Docker     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Go         25 hrs 21 mins  ████████████████████░░░░░   83.45 % 
+YAML       2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown   1 hr            ░░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+HTML       36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Other      28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 <!--END_SECTION:waka-->
 
