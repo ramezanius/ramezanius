@@ -13,4 +13,8 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          SHOW_TITLE: true
+          USERNAME: ramezanius
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Update WakaTime metrics"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
