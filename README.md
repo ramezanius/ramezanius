@@ -18,13 +18,13 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2020 - 11 August, 2020
+Week: 05 August, 2020 - 12 August, 2020
 
-Go         24 hrs 52 mins  ████████████████████░░░░░   82.28 % 
-Markdown   1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Go         26 hrs 17 mins  █████████████████████░░░░   86.97 % 
+Python     1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 YAML       58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Python     53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Other      46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Markdown   29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other      18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 <!--END_SECTION:waka-->
 
