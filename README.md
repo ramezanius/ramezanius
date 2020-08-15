@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2020 - 13 August, 2020
+Week: 07 August, 2020 - 14 August, 2020
 
 Go       24 hrs 46 mins  ██████████████████████░░░   88.90 % 
 Python   1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
