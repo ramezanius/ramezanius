@@ -18,13 +18,13 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2020 - 16 August, 2020
+Week: 10 August, 2020 - 17 August, 2020
 
-Go       19 hrs 15 mins  █████████████████████▓░░░   87.19 % 
-Python   1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-YAML     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Other    17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-JSON     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Go        16 hrs 20 mins  ██████████████████████░░░   87.54 % 
+Python    1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Other     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+YAML      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+GraphQL   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
 
