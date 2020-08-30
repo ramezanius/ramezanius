@@ -18,9 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2020 - 28 August, 2020
+Week: 22 August, 2020 - 29 August, 2020
 
-Go       4 hrs           ████████████████████████░   96.37 % 
+Go       4 hrs 1 min     ████████████████████████░   96.38 % 
 Other    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
