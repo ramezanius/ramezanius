@@ -18,13 +18,10 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2020 - 07 September, 2020
+Week: 01 September, 2020 - 08 September, 2020
 
-Go         3 hrs 24 mins   ███████████████████████▓░   94.44 % 
-GraphQL    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Go         3 hrs 59 mins   ███████████████████████▓░   95.21 % 
+GraphQL    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 <!--END_SECTION:waka-->
 
