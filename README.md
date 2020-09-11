@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2020 - 09 September, 2020
+Week: 03 September, 2020 - 10 September, 2020
 
 Go         3 hrs 31 mins   ███████████████████████▓░   94.63 % 
 GraphQL    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
