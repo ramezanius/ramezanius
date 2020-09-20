@@ -18,11 +18,11 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2020 - 18 September, 2020
+Week: 12 September, 2020 - 19 September, 2020
 
-Go         4 hrs 16 mins   ███████████████████████░░   91.99 % 
-Python     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Go         6 hrs 45 mins   ███████████████████████▒░   93.62 % 
+Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
 
