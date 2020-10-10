@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
 Go       1 hr 36 mins    █████████████████▓░░░░░░░   70.37 % 
 Python   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
