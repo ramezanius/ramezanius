@@ -18,12 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-Go       1 hr 36 mins    █████████████████▓░░░░░░░   70.37 % 
-Python   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-YAML     16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Docker   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Go       2 hrs 9 mins    █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
