@@ -18,9 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2020 - 11 October, 2020
+Week: 05 October, 2020 - 12 October, 2020
 
-Go       2 hrs 9 mins    █████████████████████████   99.99 % 
+Go       2 hrs 5 mins    █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
