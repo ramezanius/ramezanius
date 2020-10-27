@@ -20,7 +20,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 ```text
 Week: 19 October, 2020 - 26 October, 2020
 
-Go   36 mins         █████████████████████████   100.00 % 
+Go        1 hr 39 mins    █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
