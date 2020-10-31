@@ -18,11 +18,11 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 October, 2020 - 29 October, 2020
+Week: 23 October, 2020 - 30 October, 2020
 
-Go           4 hrs 45 mins   ██████████████▒░░░░░░░░░░   57.25 % 
-Other        3 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   37.37 % 
-Python       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Other        6 hrs 16 mins   ████████████▓░░░░░░░░░░░░   50.32 % 
+Go           5 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.18 % 
+Python       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 <!--END_SECTION:waka-->
 
