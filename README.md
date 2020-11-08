@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2020 - 06 November, 2020
+Week: 31 October, 2020 - 07 November, 2020
 
 Other      12 hrs 44 mins  ████████████████▒░░░░░░░░   64.75 % 
 Go         6 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   31.00 % 
