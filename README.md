@@ -18,10 +18,10 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
-Other    22 hrs 30 mins  █████████████████████░░░░   84.46 % 
-Go       3 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Other    23 hrs 15 mins  █████████████████████▓░░░   87.02 % 
+Go       3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 Python   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
