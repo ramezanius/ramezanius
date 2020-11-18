@@ -18,10 +18,10 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2020 - 16 November, 2020
+Week: 10 November, 2020 - 17 November, 2020
 
-Other     21 hrs 14 mins  ████████████████████████░   96.51 % 
-Go        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other   20 hrs 5 mins   ████████████████████████▓   98.97 % 
+Go      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 <!--END_SECTION:waka-->
 
