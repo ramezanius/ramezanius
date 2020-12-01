@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
 Other      41 hrs          █████████████████▒░░░░░░░   69.23 % 
 Go         18 hrs          ███████▓░░░░░░░░░░░░░░░░░   30.39 % 
