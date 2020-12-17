@@ -18,13 +18,11 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-Other      38 hrs 26 mins  ██████████████▒░░░░░░░░░░   57.59 % 
-Go         27 hrs 56 mins  ██████████▒░░░░░░░░░░░░░░   41.85 % 
-YAML       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Markdown   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Python     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other      33 hrs 45 mins  █████████████████▓░░░░░░░   71.02 % 
+Go         12 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
+YAML       1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 <!--END_SECTION:waka-->
 
