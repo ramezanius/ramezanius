@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
 Other      33 hrs 45 mins  █████████████████▓░░░░░░░   71.02 % 
 Go         12 hrs 35 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.49 % 
