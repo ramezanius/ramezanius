@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
 Other    17 hrs 14 mins  ███████████████████▒░░░░░   77.66 % 
 Go       4 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.58 % 
