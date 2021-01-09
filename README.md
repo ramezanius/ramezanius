@@ -18,12 +18,12 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2020 - 07 January, 2021
+Week: 01 January, 2021 - 08 January, 2021
 
-Other    5 hrs 31 mins   █████████████▒░░░░░░░░░░░   53.83 % 
-Go       3 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.61 % 
-Python   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-YAML     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Go       4 hrs 14 mins   ███████████████░░░░░░░░░░   60.04 % 
+JSON     1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Python   1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+YAML     20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 <!--END_SECTION:waka-->
 
