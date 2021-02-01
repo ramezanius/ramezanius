@@ -18,9 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
-Go       5 hrs 47 mins   █████████████████████████   99.74 % 
+Go       4 hrs 52 mins   █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
