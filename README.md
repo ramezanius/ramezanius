@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
 Go       4 hrs 52 mins   █████████████████████████   99.99 % 
 ```
