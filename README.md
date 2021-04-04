@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2021 - 02 April, 2021
+Week: 27 March, 2021 - 03 April, 2021
 
 Go        1 hr 9 mins     █████████████████████▒░░░   85.99 % 
 Other     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
