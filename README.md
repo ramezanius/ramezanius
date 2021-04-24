@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
 Python       6 mins          ███████████████▓░░░░░░░░░   62.43 % 
 JSON         4 mins          █████████▒░░░░░░░░░░░░░░░   37.39 % 
