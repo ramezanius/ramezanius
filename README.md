@@ -18,10 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 April, 2021 - 24 April, 2021
-
-Python       6 mins          ███████████████▓░░░░░░░░░   62.43 % 
-JSON         4 mins          █████████▒░░░░░░░░░░░░░░░   37.39 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
