@@ -18,7 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 April, 2021 - 04 May, 2021
+
+Go   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
