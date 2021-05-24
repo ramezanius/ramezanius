@@ -18,10 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 May, 2021 - 22 May, 2021
-
-Go        56 mins         ███████████████████▓░░░░░   78.10 % 
-GraphQL   15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
