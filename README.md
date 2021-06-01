@@ -18,7 +18,12 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 May, 2021 - 31 May, 2021
+
+Other    16 mins         ████████████████░░░░░░░░░   63.68 % 
+Python   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.46 % 
+Docker   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+YAML     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 <!--END_SECTION:waka-->
 
