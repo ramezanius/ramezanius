@@ -18,7 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 May, 2021 - 03 June, 2021
+Week: 28 May, 2021 - 04 June, 2021
 
 Other    16 mins         ████████████████░░░░░░░░░   63.68 % 
 Python   5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.46 % 
