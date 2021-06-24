@@ -18,7 +18,10 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 June, 2021 - 23 June, 2021
+
+Go       6 mins          ███████████████████▒░░░░░   77.29 % 
+YAML     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
 ```
 <!--END_SECTION:waka-->
 
