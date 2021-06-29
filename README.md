@@ -18,10 +18,10 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 June, 2021 - 27 June, 2021
+Week: 22 June, 2021 - 28 June, 2021
 
-Go       6 mins          ███████████████████▒░░░░░   77.29 % 
-YAML     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
+Go       7 mins          ███████████████████▓░░░░░   79.01 % 
+YAML     1 min           █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 ```
 <!--END_SECTION:waka-->
 
