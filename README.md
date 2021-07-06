@@ -18,10 +18,10 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 June, 2021 - 04 July, 2021
+Week: 29 June, 2021 - 05 July, 2021
 
-Go        5 hrs           ██████████████████████░░░   87.88 % 
-GraphQL   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Go        4 hrs 59 mins   ██████████████████████░░░   87.86 % 
+GraphQL   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
 <!--END_SECTION:waka-->
 
