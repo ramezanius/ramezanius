@@ -18,10 +18,7 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
-
-Go        4 hrs 59 mins   ██████████████████████░░░   87.85 % 
-GraphQL   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
