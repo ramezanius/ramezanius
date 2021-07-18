@@ -18,7 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 July, 2021 - 17 July, 2021
+
+Go   27 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
