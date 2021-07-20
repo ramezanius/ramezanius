@@ -18,9 +18,9 @@ For more visit [ramezanius.me](https://ramezanius.me)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 July, 2021 - 18 July, 2021
+Week: 13 July, 2021 - 19 July, 2021
 
-Go      31 mins         █████████████████████████   99.99 % 
+Go      1 hr 8 mins     █████████████████████████   99.99 % 
 ```
 <!--END_SECTION:waka-->
 
